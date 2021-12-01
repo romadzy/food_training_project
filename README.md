@@ -1,2 +1,2 @@
 # food_training_project
-Test project to demonstrate skills
+Test project to demonstrate JS skills
